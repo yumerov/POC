@@ -1,0 +1,16 @@
+{
+    "name": "yumerov/crypto-exchange-maintenance",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Yumerov\\CryptoExchangeMaintenance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yumerov",
+            "email": "levent@yumerov.com"
+        }
+    ],
+    "require": {}
+}
